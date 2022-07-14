@@ -1,0 +1,16 @@
+
+### Renderizacao no React
+Criar uma nova versao do componente
+compara com a versao anterior
+se houverem alteracoes, vai atualizar o que alterou
+
+### quando utilziar o memo()
+Quando se tem Pure Functional Components
+Renders too often
+Re-renders with same props
+Medium to big size
+
+useMemo / useCallback
+
+Calculos pesados
+Igualdade referencial (quando passamos um determinada informacao para um componente filho)
