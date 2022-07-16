@@ -11,13 +11,13 @@
   },
   "dependencies": {
     "next": "12.1.6",
-    "react": "18.1.0",
-    "react-dom": "18.1.0",
+    "react": "^17",
+    "react-dom": "^17",
     "react-virtualized": "^9.22.3"
   },
   "devDependencies": {
     "@types/node": "17.0.35",
-    "@types/react": "18.0.9",
+    "@types/react": "^17",
     "@types/react-dom": "18.0.5",
     "@types/react-virtualized": "^9.21.21",
     "eslint": "8.16.0",
